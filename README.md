@@ -23,4 +23,6 @@
 
 # Результат
 
+<img src="/imgs/vid.gif" width="800"/>
+
 [Видеоотчёт/Video report](https://drive.google.com/file/d/1HYLEBW398ZOSh-FTs-9sucmi4UBI3kWu/view?usp=sharing)
