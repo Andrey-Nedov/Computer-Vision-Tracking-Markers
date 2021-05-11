@@ -16,9 +16,9 @@
 Был выдан следующий набор шаблонов
 
 <p>
-<img src="/imgs/1.png" width=300"/>
-<img src="/imgs/2.png" width=300"/>
-<img src="/imgs/3.png" width=300"/>
+<img src="/imgs/1.png" width=200"/>
+<img src="/imgs/2.png" width=200"/>
+<img src="/imgs/3.png" width=200"/>
 </p>
 
 
