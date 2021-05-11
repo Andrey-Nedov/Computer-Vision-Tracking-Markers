@@ -1,4 +1,4 @@
-# Система отслеживания 2D-маркеров в пространстве с использованием OpenCV/Tracking system for 2D markers in 3D space using OpenCV
+# Система отслеживания 2D-маркеров в пространстве с использованием OpenCV / Tracking system for 2D markers in 3D space using OpenCV
 <img src="/imgs/img1.png" width="800"/>
 
 *Разработчик/Developer*
