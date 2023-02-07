@@ -15,7 +15,7 @@
 
 # Templates
 
-The following set of templates has been issued
+The following set of templates has been issued 
  
 <p>
 <img src="/imgs/1.png" width=200"/>
