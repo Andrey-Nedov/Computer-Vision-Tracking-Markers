@@ -1,6 +1,8 @@
 # Tracking system for 2D markers in 3D space using OpenCV
 <img src="/imgs/img1.png" width="800"/>
 
+*14.09.2020*
+
 *Developer*
 1. [Andrey Nedov](github.com/Andrey-Nedov)
 
